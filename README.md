@@ -1,2 +1,12 @@
-This is a RESTful API with Spring Boot allowing users to post 1–5 star reviews and like others' feedback on 1,000+ Pokémon synced from PokéAPI. 
-Implemented CRUD operations, external API integration, and database persistence.
+# Pokémon Review API
+
+A RESTful API that lets users view Pokémon info from PokeAPI and write reviews.
+
+## Features
+- Sync over 1000 Pokémon from PokeAPI
+- Users can leave 1–5 star reviews
+- Review like system
+
+## Tech Stack
+- Java, Spring Boot
+- PostgreSQL
